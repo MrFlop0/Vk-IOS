@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  cats
 //
-//  Created by Xenia Yarunina on 02.11.2024.
+//  Created by Aleksandr Kaplenkov on 02.11.2024.
 //
 
 import UIKit

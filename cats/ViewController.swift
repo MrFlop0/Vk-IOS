@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  cats
 //
-//  Created by Xenia Yarunina on 02.11.2024.
+//  Created by Kaplenkov Aleksandr on 02.11.2024.
 //
 
 import UIKit
